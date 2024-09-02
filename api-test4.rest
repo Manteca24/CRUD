@@ -1,0 +1,10 @@
+
+PUT http://localhost:3000/usuarios/Agos
+Content-Type: application/json
+
+{
+    "edad": 34,
+    "lugarProcedencia": "Madagascar"
+}
+
+// actualizar datos de uno de los usuarios (Agos)

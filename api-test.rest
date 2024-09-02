@@ -1,0 +1,2 @@
+GET http://localhost:3000/usuarios
+// leer todos los usuarios

@@ -1,0 +1,11 @@
+
+POST http://localhost:3000/usuarios
+Content-Type: application/json
+
+{
+    "nombre": "Agos",
+    "edad": 33,
+    "lugarProcedencia": "España"
+}
+
+// crear un nuevo usuario Agos, 33 años, España
